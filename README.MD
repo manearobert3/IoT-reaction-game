@@ -38,7 +38,7 @@ The hardware schematics were designed in **Fritzing** and include:
 
 > 🎯 You can find the full schematic image inside the repo under `schema` folder.
 
-![Click to view the schema](https://github.com/manearobert3/IoT-reaction-game/tree/master/schema/reflex_game_v1_schema_bb.png)
+![Click to view the schema](https://github.com/manearobert3/IoT-reaction-game/blob/master/schema/reflex_game_v1_schema_bb.png)
 
 ## 🧰 Pre-requisites
 
