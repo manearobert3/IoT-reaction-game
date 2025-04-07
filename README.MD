@@ -20,9 +20,9 @@ A short video showcasing the full project, including:
 - OLED countdown and winner animation
 - WebSocket-based live score updating
 
-![Click to view the demo video](https://github.com/manearobert3/IoT-reaction-game/demo/demo.gif)
+![Click to view the demo video](https://github.com/manearobert3/IoT-reaction-game/blob/master/demo/demo.gif)
 
-![Click to view the project](https://github.com/manearobert3/IoT-reaction-game/demo/full_build.jpg)
+![Click to view the project](https://github.com/manearobert3/IoT-reaction-game/blob/master/demo/full_build.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ The hardware schematics were designed in **Fritzing** and include:
 
 > 🎯 You can find the full schematic image inside the repo under `schema` folder.
 
-![Click to view the schema](https://github.com/manearobert3/IoT-reaction-game/schema/reflex_game_v1_schema_bb.png)
+![Click to view the schema](https://github.com/manearobert3/IoT-reaction-game/tree/master/schema/reflex_game_v1_schema_bb.png)
 
 ## 🧰 Pre-requisites
 
