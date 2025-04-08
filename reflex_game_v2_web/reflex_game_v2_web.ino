@@ -9,8 +9,8 @@
 #define SCREEN_WIDTH 128   // width display
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-const char* ssid = "DIGI-fVt6";
-const char* password = "Zaye726Q2u";
+const char* ssid = "your_wifi_name";
+const char* password = "your_wifi_pass";
 
 AsyncWebServer server(80);
 AsyncWebSocket ws("/ws");
